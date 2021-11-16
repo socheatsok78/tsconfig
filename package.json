@@ -1,0 +1,22 @@
+{
+  "name": "@socheatsok78/tsconfig",
+  "description": "Shared TypeScript config for my @socheatsok78",
+  "version": "0.1.0",
+  "main": "tsconfig.json",
+  "repository": "https://github.com/socheatsok78/tsconfig.git",
+  "author": "Socheat Sok <socheatsok78@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "tsconfig.json"
+  ],
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts",
+    "config",
+    "configuration"
+  ],
+  "engines": {
+    "node": ">=12"
+  }
+}
