@@ -10,13 +10,10 @@
     "tsconfig.json"
   ],
   "keywords": [
-    "tsconfig",
-    "typescript",
-    "ts",
-    "config",
-    "configuration"
+    "tsconfig"
   ],
   "engines": {
-    "node": ">=12"
+    "node": ">=12",
+    "typescript": ">=4"
   }
 }
