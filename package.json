@@ -1,7 +1,7 @@
 {
   "name": "@socheatsok78/tsconfig",
   "description": "Shared TypeScript config for my @socheatsok78",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "main": "tsconfig.json",
   "repository": "https://github.com/socheatsok78/tsconfig.git",
   "author": "Socheat Sok <socheatsok78@gmail.com>",
@@ -12,6 +12,7 @@
   "keywords": [
     "tsconfig"
   ],
+  "packageManager": "pnpm@8.6.12",
   "engines": {
     "node": ">=12",
     "typescript": ">=4"
